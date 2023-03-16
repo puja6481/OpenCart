@@ -1,0 +1,52 @@
+16:37:43.513 [main] INFO  testCases.TC_001_AccountRegestration - Providing Customer Data
+16:37:44.383 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on Continue button
+16:37:54.427 [main] INFO  testCases.TC_001_AccountRegestration - Valadating Expected Massage
+16:37:54.427 [main] INFO  testCases.TC_001_AccountRegestration - Finished TC_001_AccountRegestration Test
+16:38:00.050 [main] INFO  testCases.TC_001_AccountRegestration - ***Starting TC_001_AccountRegestration ***
+16:38:00.187 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on My Account link
+16:38:00.914 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on Register link
+16:38:00.916 [main] INFO  testCases.TC_001_AccountRegestration - Providing Customer Data
+16:38:01.349 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on Continue button
+16:38:11.401 [main] INFO  testCases.TC_001_AccountRegestration - Valadating Expected Massage
+16:38:11.402 [main] INFO  testCases.TC_001_AccountRegestration - Finished TC_001_AccountRegestration Test
+16:41:12.214 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegestration - ***Starting TC_001_AccountRegestration ***
+16:41:12.249 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegestration - ***Starting TC_001_AccountRegestration ***
+16:41:12.683 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegestration - Clicked on My Account link
+16:41:12.712 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegestration - Clicked on My Account link
+16:41:13.710 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegestration - Clicked on Register link
+16:41:13.718 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegestration - Providing Customer Data
+16:41:14.590 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegestration - Clicked on Register link
+16:41:14.593 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegestration - Providing Customer Data
+16:41:15.293 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegestration - Clicked on Continue button
+16:41:15.852 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegestration - Clicked on Continue button
+16:41:25.371 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegestration - Valadating Expected Massage
+16:41:25.371 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegestration - Finished TC_001_AccountRegestration Test
+16:41:25.903 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegestration - Valadating Expected Massage
+16:41:25.903 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegestration - Finished TC_001_AccountRegestration Test
+17:04:20.299 [main] INFO  testCases.TC_001_AccountRegestration - ***Starting TC_001_AccountRegestration ***
+17:04:20.487 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on My Account link
+17:04:21.239 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on Register link
+17:04:21.243 [main] INFO  testCases.TC_001_AccountRegestration - Providing Customer Data
+17:04:21.842 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on Continue button
+17:04:31.886 [main] INFO  testCases.TC_001_AccountRegestration - Valadating Expected Massage
+17:04:31.887 [main] INFO  testCases.TC_001_AccountRegestration - Finished TC_001_AccountRegestration Test
+12:41:22.973 [main] INFO  testCases.TC_001_AccountRegestration - ***Starting TC_001_AccountRegestration ***
+12:41:23.191 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on My Account link
+12:41:23.794 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on Register link
+12:41:23.799 [main] INFO  testCases.TC_001_AccountRegestration - Providing Customer Data
+12:41:24.918 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on Continue button
+12:41:34.979 [main] INFO  testCases.TC_001_AccountRegestration - Valadating Expected Massage
+12:41:34.980 [main] INFO  testCases.TC_001_AccountRegestration - Finished TC_001_AccountRegestration Test
+12:47:40.154 [main] INFO  testCases.TC_001_AccountRegestration - ***Starting TC_001_AccountRegestration ***
+12:47:40.388 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on My Account link
+12:47:41.382 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on Register link
+12:47:41.386 [main] INFO  testCases.TC_001_AccountRegestration - Providing Customer Data
+12:47:42.085 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on Continue button
+12:47:52.143 [main] INFO  testCases.TC_001_AccountRegestration - Valadating Expected Massage
+16:17:28.491 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+16:17:28.658 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount link
+16:17:29.165 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login link
+16:17:29.170 [main] INFO  testCases.TC_002_LoginTest - Providing Login Details
+16:17:29.415 [main] INFO  testCases.TC_002_LoginTest - emailid is set
+16:17:29.764 [main] INFO  testCases.TC_002_LoginTest - Password set
+16:17:29.813 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button

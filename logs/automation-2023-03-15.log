@@ -1,0 +1,55 @@
+18:35:08.221 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on My Account link
+18:35:08.935 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on Register link
+18:35:08.939 [main] INFO  testCases.TC_001_AccountRegestration - Providing Customer Data
+18:35:09.468 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on Continue button
+18:35:19.511 [main] INFO  testCases.TC_001_AccountRegestration - Valadating Expected Massage
+18:35:19.511 [main] INFO  testCases.TC_001_AccountRegestration - Finished TC_001_AccountRegestration Test
+18:35:24.502 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+18:35:24.606 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount link
+18:35:25.064 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login link
+18:35:25.067 [main] INFO  testCases.TC_002_LoginTest - Providing Login Details
+18:35:25.202 [main] INFO  testCases.TC_002_LoginTest - emailid is set
+18:35:25.319 [main] INFO  testCases.TC_002_LoginTest - Password set
+18:35:25.401 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button
+18:35:25.402 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest *** 
+18:36:37.370 [main] INFO  testCases.TC_001_AccountRegestration - ***Starting TC_001_AccountRegestration ***
+18:36:37.520 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on My Account link
+18:36:38.221 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on Register link
+18:36:38.224 [main] INFO  testCases.TC_001_AccountRegestration - Providing Customer Data
+18:36:38.725 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on Continue button
+18:36:48.778 [main] INFO  testCases.TC_001_AccountRegestration - Valadating Expected Massage
+18:36:48.778 [main] INFO  testCases.TC_001_AccountRegestration - Finished TC_001_AccountRegestration Test
+18:36:53.309 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+18:36:53.411 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount link
+18:36:54.029 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login link
+18:36:54.031 [main] INFO  testCases.TC_002_LoginTest - Providing Login Details
+18:36:54.176 [main] INFO  testCases.TC_002_LoginTest - emailid is set
+18:36:54.281 [main] INFO  testCases.TC_002_LoginTest - Password set
+18:36:54.381 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button
+18:36:54.381 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest *** 
+18:37:33.379 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegestration - ***Starting TC_001_AccountRegestration ***
+18:37:33.747 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegestration - Clicked on My Account link
+18:37:34.485 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegestration - Clicked on Register link
+18:37:34.499 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegestration - Providing Customer Data
+18:37:45.449 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegestration - ***Starting TC_001_AccountRegestration ***
+18:39:14.330 [main] INFO  testCases.TC_001_AccountRegestration - ***Starting TC_001_AccountRegestration ***
+18:39:14.495 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on My Account link
+18:39:15.104 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on Register link
+18:39:15.109 [main] INFO  testCases.TC_001_AccountRegestration - Providing Customer Data
+18:39:16.080 [main] INFO  testCases.TC_001_AccountRegestration - Clicked on Continue button
+18:39:26.126 [main] INFO  testCases.TC_001_AccountRegestration - Valadating Expected Massage
+18:39:26.126 [main] INFO  testCases.TC_001_AccountRegestration - Finished TC_001_AccountRegestration Test
+18:39:31.517 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+18:39:31.618 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount link
+18:39:32.214 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login link
+18:39:32.218 [main] INFO  testCases.TC_002_LoginTest - Providing Login Details
+18:39:32.393 [main] INFO  testCases.TC_002_LoginTest - emailid is set
+18:39:32.562 [main] INFO  testCases.TC_002_LoginTest - Password set
+18:39:32.658 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button
+18:39:32.658 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest *** 
+18:40:39.840 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegestration - ***Starting TC_001_AccountRegestration ***
+18:40:40.329 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegestration - Clicked on My Account link
+18:40:41.530 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegestration - Clicked on Register link
+18:40:41.557 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegestration - Providing Customer Data
+18:40:53.052 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegestration - ***Starting TC_001_AccountRegestration ***
+18:50:43.615 [main] INFO  testCases.TC_001_AccountRegestration - ***Starting TC_001_AccountRegestration ***
